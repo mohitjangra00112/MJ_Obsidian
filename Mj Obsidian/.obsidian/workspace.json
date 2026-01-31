@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "3eb93bb0f26cfc62",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c4a8aacae8f732f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82fa01297d997e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/01-Node-JS-Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Node-JS-Fundamentals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b6a834ae2b4d87c",
+    "type": "split",
+    "children": [
+      {
+        "id": "475d1a4457c5e9b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66b4cea321360b4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b35ddc2704d8118",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "587040a8893b3f34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86f667237034b8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd94bc3b71107fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c30c67084744806d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Seq/04-Sequelize-Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 04-Sequelize-Introduction"
+            }
+          },
+          {
+            "id": "06bd5cd93f05edba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Seq/04-Sequelize-Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04-Sequelize-Introduction"
+            }
+          },
+          {
+            "id": "d4b66369ff6e735c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a40911e7e9fc5844",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Seq/04-Sequelize-Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 04-Sequelize-Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82fa01297d997e8e",
+  "lastOpenFiles": [
+    "Backend/FS.md",
+    "Backend/01-Node-JS-Fundamentals.md",
+    "Backend/00-Main-Index.md",
+    "Node Revision.md",
+    "Node Postgres.md",
+    "Stored Procedures.md",
+    "Super Keyword In JS.md",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled.base",
+    "JS/04 - Scope and Hoisting.md",
+    "JS/03 - Arrow Functions.md",
+    "JS/02 - Functions.md",
+    "JS/01 - Variables and Data Types.md",
+    "JS/05 - Strict Mode.md",
+    "Backend Revision 2 Day Plan.md",
+    "Covering Index.md",
+    "Data Tables.md",
+    "Dynamic Loading on iframe.md",
+    "Backend/06-Express-Router.md",
+    "Project/Setup.md",
+    "Project/Phase 1.md",
+    "JSON B.md",
+    "Project/Document.md",
+    "Backend/07-Serving-Static-Files.md",
+    "Project",
+    "Backend/05-Express-Framework.md",
+    "Backend/04-HTTP-Server.md",
+    "Backend/03-Event-Loop-and-Threading.md",
+    "Backend/02-Modules-and-Exports.md",
+    "Untitled 4.base",
+    "Untitled 1.base"
+  ]
+}
